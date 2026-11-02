@@ -222,7 +222,7 @@ md5sum /mnt/h/backup_logo/SYSTEM.orig /mnt/ark/SYSTEM
 ## 5. goodluckOS
 
 On goodluckOS, `bootlogo.bmp` lives on a small FAT partition that Windows doesn't
-show (see issue #111 in the goodluckOS repo). The method is the same as stock
+show (see issue [#111](https://github.com/CodeZombie/goodluckOS/issues/111) in the goodluckOS repo). The method is the same as stock
 stage 1, just done through the VM.
 
 1. Prepare `bootlogo.bmp` (24-bit 640x480 BMP, see section 2). Put it on a
