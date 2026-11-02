@@ -1,6 +1,6 @@
 # Custom Boot Logo untuk R36S Clone – GA36-MB V1.1 (20251025) (Stock "ArkOS 2.0" & goodluckOS)
 
-<img src="https://i.imgur.com/tV5YQIj.jpeg" alt="Boot Image" width="25%" />
+<img src="https://i.imgur.com/tV5YQIj.jpeg" alt="Boot Image" width="40%" />
 
 Catatan pribadi supaya tidak perlu cari-cari command di chat lagi.
 Perangkat: R36S clone, board GA36 V1.1 (Allwinner, kernel `sun8i`).

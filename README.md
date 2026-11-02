@@ -1,6 +1,6 @@
 # Custom Boot Logo for R36S Clone – GA36-MB V1.1 (20251025) (Stock "ArkOS 2.0" & goodluckOS)
 
-<img src="https://i.imgur.com/tV5YQIj.jpeg" alt="Boot Image" width="25%" />
+<img src="https://i.imgur.com/tV5YQIj.jpeg" alt="Boot Image" width="40%" />
 
 Device: R36S clone, board GA36 V1.1 (Allwinner, kernel `sun8i`).
 Original stock card: 16 GB (shows up as 14.8 GB).
